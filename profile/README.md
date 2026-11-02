@@ -19,7 +19,7 @@
 - A pixel office that shows what each agent is really doing
 - TypeScript, React, Tauri 2 · Apache-2.0 · early alpha
 
-[Repository](https://github.com/useburoo/noburi) · [Website](https://noburi.jiordiviera.me)
+[Repository](https://github.com/useburoo/noburi) · [Website](https://noburi.buroo.space)
 
 ## Contributing
 
